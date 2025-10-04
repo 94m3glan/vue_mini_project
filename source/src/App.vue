@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <h5 class="my-0 mr-md-auto font-weight-normal">Vue Mini Project</h5>
     <nav class="my-2 my-md-0 mr-md-3">
       <a class="p-2 text-dark" href="#">Product management</a>
-      <a class="p-2 text-dark" href="#">User management</a>
+      <a class="p-2 text-dark" href="#">Nguoi dung management</a>
     </nav>
     <a class="btn btn-outline-primary" routerlink="cart">Administrator</a>
   </div>
